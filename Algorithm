@@ -1,0 +1,16 @@
+10,1,8,3,6,5,4,7,x,y
+#General solution of x and y:
+x=n1-2
+where n1 = previous number in odd place
+y=n2+2
+where n2 = previous number in even place 
+
+#Algorithm:
+step1: start
+step2: get n1 and n2
+       n1=previous number in odd place
+       n2=previous number in even place
+step3: x=n1-2
+step4: y=n2+2
+step5: stop
+       
